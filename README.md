@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mukeshVenkatesan
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python packages
+- 👀 I’m a Backend Developer using NodeJS and Django
+- 🌱 I’m currently building CRUD apps uding NodeJS and MOngo DB
 - 📫 mail me:muki.venkat009@gmail.com
 
 <!---
